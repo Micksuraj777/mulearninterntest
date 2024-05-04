@@ -58,14 +58,15 @@
 .down{
         color: black;
         text-decoration: none;
-        padding: 5px 10px;
+        padding: 10px 20px;
         border-radius: 10px;
         border: none;
         cursor: pointer;
     }
   .heroimg{
     position: relative;
+    display: block;
     z-index: 2;
-    width: 650px;
-    height: 650px;
+    width: 700px;
+    height: 700px;
   }

@@ -27,9 +27,9 @@ const Home = () => {
         nibh volutpat morbi metus, commodo.
       </p>
       <ul className="brand">
-        <li><a href="#"><img src={Windows} width={30} height={30} alt="windows" /></a></li>
-        <li><a href="#"><img src={Android} width={30} height={30} alt="android" /></a></li>
-        <li><a href="#"><img src={Apple} width={30} height={30} alt="apple" /></a></li>
+        <li><a href="#"><img src={Windows} width={40} height={40} alt="windows" /></a></li>
+        <li><a href="#"><img src={Android} width={40} height={40} alt="android" /></a></li>
+        <li><a href="#"><img src={Apple} width={40} height={40} alt="apple" /></a></li>
         <li><button className="down">Download</button></li>
       </ul>
         </div>
