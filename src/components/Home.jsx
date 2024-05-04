@@ -34,7 +34,7 @@ const Home = () => {
       </ul>
         </div>
         <div className="right">
-          <img src={Hero} width={615} height={615} className="heroimg" alt="hero" />
+          <img src={Hero} className="heroimg" alt="hero" />
         </div>
       </div>
     </section>
